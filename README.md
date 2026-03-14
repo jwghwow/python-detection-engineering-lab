@@ -86,5 +86,8 @@ Dataset columns used by the project:
 
 ## 1. Clone the repository
 ## 2. Install Dependencies
+- pip install pandas
 ## 3. Add the authentication log dataset
-### Place your authentication log CSV file in the data/ directory.
+- Place your authentication log CSV file in the data/ directory.
+## 4. Run
+- /src/main.py
